@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+    font-family: Arial;
+    font-weight: bold;
+    border-color: yellowgreen;
+    border-width: 3px;
+    border-style: solid;
+}
+
+p {
+    border-color: firebrick;
+    border-width: 3px;
+    border-style: solid;
+    margin: 50px 5px 15px 5px;
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#established {
+    border-radius: 10px;
+
+}
+
+.rounded {
+    border-radius: 30px;
+}
+
+h1.rounded {
+    border-radius: 20px;
+}
+
+ul{
+    list-style-type: upper-roman;
+}
