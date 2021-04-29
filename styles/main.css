@@ -33,3 +33,6 @@ h1.rounded {
 ul{
     list-style-type: upper-roman;
 }
+body {
+background-image: url("images/im.jpg");
+}
